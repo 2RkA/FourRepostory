@@ -1,3 +1,6 @@
+
+#Yaroslav Platonov IB-b-21-1-o
+
 from PIL import Image
 import os
 
